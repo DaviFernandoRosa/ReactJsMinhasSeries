@@ -29,7 +29,6 @@ function App() {
               <Route exact path='/NovaSerie' component={NovaSerie}/>
           </Switch>
          
-
        </div>
     </Router>
        
